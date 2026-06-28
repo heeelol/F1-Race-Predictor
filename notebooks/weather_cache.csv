@@ -1,0 +1,71 @@
+Season,EventName,is_wet_qualifying,track_temp_avg,air_temp_avg,humidity_avg,wind_speed_avg
+2023,Bahrain Grand Prix,0,28.1,23.9,21.7,0.61
+2023,Saudi Arabian Grand Prix,0,31.7,27.0,44.7,1.55
+2023,Australian Grand Prix,1,22.7,15.2,53.4,1.32
+2023,Azerbaijan Grand Prix,0,33.1,19.5,80.6,0.8
+2023,Miami Grand Prix,0,43.3,28.6,59.2,3.44
+2023,Monaco Grand Prix,0,46.5,25.6,34.7,0.81
+2023,Spanish Grand Prix,1,24.9,20.9,71.9,1.84
+2023,Canadian Grand Prix,1,18.5,16.5,87.7,2.78
+2023,Austrian Grand Prix,0,39.6,26.7,41.6,0.84
+2023,British Grand Prix,1,22.9,21.3,78.4,2.67
+2023,Hungarian Grand Prix,0,43.9,26.3,34.5,2.17
+2023,Belgian Grand Prix,1,23.6,19.3,88.7,1.07
+2023,Qatar Grand Prix,0,34.4,31.4,55.8,3.32
+2023,United States Grand Prix,0,41.4,35.5,12.5,1.44
+2023,Mexico City Grand Prix,0,44.1,25.8,27.1,1.41
+2023,São Paulo Grand Prix,1,38.3,29.4,57.3,2.41
+2023,Las Vegas Grand Prix,0,16.9,15.1,61.1,0.77
+2023,Abu Dhabi Grand Prix,0,31.8,26.7,66.3,1.51
+2024,Bahrain Grand Prix,0,21.5,18.0,46.9,1.99
+2024,Saudi Arabian Grand Prix,0,30.8,25.1,56.1,1.47
+2024,Australian Grand Prix,1,34.4,18.7,53.6,1.48
+2024,Japanese Grand Prix,0,26.7,17.5,58.1,1.63
+2024,Chinese Grand Prix,0,33.9,22.1,55.4,1.66
+2024,Miami Grand Prix,0,47.3,29.1,54.9,2.94
+2024,Emilia Romagna Grand Prix,0,41.6,24.2,43.3,2.9
+2024,Monaco Grand Prix,0,44.7,21.2,60.9,1.14
+2024,Belgian Grand Prix,1,22.0,18.0,92.7,1.15
+2024,Dutch Grand Prix,0,30.1,24.5,66.3,4.14
+2024,Italian Grand Prix,0,48.7,33.4,36.8,1.37
+2024,Azerbaijan Grand Prix,0,36.7,27.0,36.5,1.42
+2024,Singapore Grand Prix,0,32.0,29.4,79.0,1.36
+2024,United States Grand Prix,0,38.2,28.6,38.7,2.23
+2024,Mexico City Grand Prix,0,39.4,22.0,40.5,1.43
+2024,São Paulo Grand Prix,1,23.4,20.3,93.4,0.58
+2024,Las Vegas Grand Prix,0,14.1,11.8,26.8,0.67
+2024,Qatar Grand Prix,0,21.7,18.8,59.5,2.12
+2024,Abu Dhabi Grand Prix,0,29.7,25.8,65.8,1.47
+2025,Australian Grand Prix,0,40.5,30.3,46.1,0.77
+2025,Chinese Grand Prix,0,38.7,26.1,13.8,2.3
+2025,Japanese Grand Prix,0,32.1,14.7,58.6,2.98
+2025,Spanish Grand Prix,0,46.8,29.1,37.1,1.62
+2025,Canadian Grand Prix,0,43.1,21.3,30.7,2.27
+2025,Austrian Grand Prix,0,47.2,27.8,33.9,1.39
+2025,British Grand Prix,0,27.4,20.2,72.8,4.03
+2025,Belgian Grand Prix,0,37.7,22.6,54.2,1.36
+2025,Hungarian Grand Prix,0,42.5,28.1,37.2,1.98
+2025,Dutch Grand Prix,0,34.2,20.6,64.5,4.03
+2025,Italian Grand Prix,0,42.8,26.6,35.8,1.55
+2025,Azerbaijan Grand Prix,1,26.1,20.7,59.5,2.27
+2023,Dutch Grand Prix,1,22.4,18.0,77.9,2.3
+2023,Italian Grand Prix,0,39.4,28.2,40.8,1.21
+2023,Singapore Grand Prix,0,34.2,29.5,77.4,1.75
+2023,Japanese Grand Prix,0,36.6,26.1,47.5,3.53
+2024,Canadian Grand Prix,1,31.1,20.6,66.9,1.86
+2024,Spanish Grand Prix,0,36.5,24.1,68.4,1.36
+2024,Austrian Grand Prix,0,46.1,31.3,37.7,1.34
+2024,British Grand Prix,1,21.2,13.7,74.4,1.77
+2024,Hungarian Grand Prix,1,30.3,24.4,61.8,0.94
+2025,Bahrain Grand Prix,0,30.9,26.3,57.1,3.13
+2025,Saudi Arabian Grand Prix,0,37.2,29.6,57.6,0.86
+2025,Miami Grand Prix,0,41.0,28.0,63.1,2.52
+2025,Emilia Romagna Grand Prix,0,39.4,22.8,30.4,1.96
+2025,Monaco Grand Prix,0,40.3,21.1,59.4,0.88
+2025,Singapore Grand Prix,0,35.0,29.9,69.1,1.64
+2025,United States Grand Prix,0,45.7,33.9,36.3,1.88
+2025,Mexico City Grand Prix,0,46.0,26.2,27.5,1.99
+2025,São Paulo Grand Prix,0,40.3,26.0,56.5,1.54
+2025,Las Vegas Grand Prix,1,12.5,11.7,65.5,1.58
+2025,Qatar Grand Prix,0,25.5,20.5,74.7,0.76
+2025,Abu Dhabi Grand Prix,0,29.1,25.1,76.7,1.15
